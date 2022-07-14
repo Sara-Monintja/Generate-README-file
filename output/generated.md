@@ -1,4 +1,6 @@
-# Professional README file
+
+
+# Professional README file generator
 
 ![MIT-licensed](https://img.shields.io/badge/license-MIT-green)
 
@@ -6,6 +8,7 @@
 ## Description
 
 An instant professional readme file markdown generator, that is completed based on user input through the terminal.
+
 
 ## Table of Contents
 
@@ -15,10 +18,12 @@ An instant professional readme file markdown generator, that is completed based 
 - [Contributing](#contributing)
 - [Questions](#Questions)
 
+
 ## Installation
 
 To install the application:
   - Simply clone the code
+
 
 ## Usage
 
@@ -31,9 +36,11 @@ After cloning the code:
   - Answer each questions
   - Navigate to Output folder, where the Markdown file is generated
 
+
 ## License 
 
 This application is based on MIT License by default
+
 
 ## Contributing
 
@@ -45,6 +52,7 @@ For suggestion that would make this better, simply fork the repo and create a pu
   - Push to the branch
   - Open a Pull Request
   
+  
 ## Questions 
 
 - How to reach me? 
@@ -52,4 +60,4 @@ For suggestion that would make this better, simply fork the repo and create a pu
 
 
 - Want to see more from me?
-[sa-612](https://github.com/sa-612)
+[sara-monintja](https://github.com/sara-monintja)

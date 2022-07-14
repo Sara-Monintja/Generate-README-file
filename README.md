@@ -13,7 +13,7 @@ An instant professional readme file markdown generator, that is completed based 
 - [License](#License)
 - [Contributing](#contributing)
 - [Questions](#Questions)
-- []
+- [Screenshots](#screenshots)
 
 
 ## Installation
@@ -58,4 +58,6 @@ For suggestion that would make this better, simply fork the repo and create a pu
 
 - Want to see more from me?
 sara-monintja.github.io
+
+## Screenshots
 
