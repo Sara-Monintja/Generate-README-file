@@ -61,3 +61,8 @@ sara-monintja.github.io
 
 ## Screenshots
 
+<img width="1440" alt="Screen Shot 1" src="https://user-images.githubusercontent.com/101404884/178952960-9d5c3f56-13df-450f-a33c-6c40e6217e14.png">
+<img width="1440" alt="Screen Shot 2" src="https://user-images.githubusercontent.com/101404884/178952993-eb550931-1fd4-432e-8e64-720e38514dec.png">
+<img width="1440" alt="Screen Shot 3" src="https://user-images.githubusercontent.com/101404884/178952997-e256145b-8d43-4101-b23b-c9c56824e8d3.png">
+<img width="1440" alt="Screen Shot 4" src="https://user-images.githubusercontent.com/101404884/178953002-3716c7d6-5c9c-4bf2-ad73-620d1760a9c3.png">
+<img width="1440" alt="Screen Shot 5" src="https://user-images.githubusercontent.com/101404884/178953006-b2212238-844e-4846-8dd1-d88ebf728ce5.png">
