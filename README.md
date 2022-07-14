@@ -58,7 +58,7 @@ For suggestion that would make this better, simply fork the repo and create a pu
 
 
 - Want to see more from me?
-sara-monintja.github.io
+[Sara-Monintja](https://github.com/Sara-Monintja)
 
 ## Screenshots
 
