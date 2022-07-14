@@ -1,27 +1,54 @@
+# Professional README file
 
-
-# Professional README generator
-
-![GPL-2-licensed](https://img.shields.io/badge/license-GPL%202-green)
+![MIT-licensed](https://img.shields.io/badge/license-MIT-green)
 
 
 ## Description
 
-When creating an open source project on GitHub, it's important to have a high-quality README for the app. 
-This should include what the app is for, how to use the app, how to install it, how to report issues, and how to make contributions&mdash;this last part increases the likelihood that other developers will contribute to the success of the project.
+An instant professional readme file markdown generator, that is completed based on user input through the terminal.
 
-The application will be invoked by using the following command on your terminal:
+## Table of Contents
 
+- [Installation](#installation)
+- [Usage](#usage)
+- [License](#License)
+- [Contributing](#contributing)
+- [Questions](#Questions)
 
-node index.js
+## Installation
 
-  
+To install the application:
+  - Simply clone the code
 
+## Usage
+
+After cloning the code:
+  - Open the code in VS Code
+  - Navigate to index.js
+  - Navigate to terminal by right clicking on Index.js file
+  - In terminal, install npm packages and also npm inquirer
+  - In terminal, type ' node index.js '
+  - Answer each questions
+  - Navigate to Output folder, where the Markdown file is generated
+
+## License 
+
+This application is based on MIT License by default
+
+## Contributing
+
+Contribution is what make a great community. Any contributions you make are greatly appreciated.
+For suggestion that would make this better, simply fork the repo and create a pull request. Thank You!
+  - Fork the project
+  - Create your future branch
+  - Commit your changes
+  - Push to the branch
+  - Open a Pull Request
   
 ## Questions 
 
 - How to reach me? 
-[sa@gmail.com](mailto:sa@gmail.com)
+[sara.monintja@gmail.com](mailto:sara.monintja@gmail.com)
 
 
 - Want to see more from me?
